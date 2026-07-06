@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "finance.biggo.com",
+      "title": "AI Agents Consume Up to 136.5x More Power Than ChatGPT, KAIST Study First to Quantify",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kR0NMR2FkUmlrOTRydmJuNF9iZDN4RVp0S2NlNHEwTlBoenpONFFUYWliRVZKYWFCQ2VuN0FDTWpBR3FMNDFqb0gwajNMRUtXZzhqVzJGdWhLTEQtem1DOTNzVVIzUmxrU2NmTEhFNklaUjM3QVE"
+    },
+    {
+      "source": "MSN",
+      "title": "Cisco to give all 90,000 employees personal AI agents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing the Gemini Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title|competitor_comparison|audience|2026-07-06T01:02:20Z selected architecture=operator-field-guide, components=[decision-matrix, workflow-playbook-timeline, source-card-dossier], GSAP=[pinned-chapter-scroll, hover-physics]. AIDA Check: hero=Attention, comparison+proof=Interest, workflow media=Desire, CTA band=Action. Font Selection: Cabinet Grotesk. Hero Math Verification: clamp headline spans 2\u20133 lines at common widths. Bento Density Verification: compare grid uses grid-auto-flow:dense. GSAP Motion Selection: guarded animations with fallbacks. Label Sweep & Button Check: primary black pill CTA and high-contrast secondary verified.",
+  "generated_at": "2026-07-06T01:03:18.049489+00:00",
+  "headline": "Super vs ChatGPT: personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, practical comparison for people choosing between ChatGPT and Super. ChatGPT is excellent for conversation and one\u2011off automation. Super is built for durable computer\u2011use workflows, with a reusable computer-use cache that improves reliability and lowers cost over repeated runs. This guide explains when each tool fits, how to evaluate them side\u2011by\u2011side, and how to decide based on your actual work."
+}
